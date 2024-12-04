@@ -2,8 +2,8 @@
 
 ### Education 
 
-Masters in Computational Data Analytics - Georgia Institute of Technology
-Bachelors in Economics and Mathematics, minor in Computer Science - Lahore University of Management Sciences}{Lahore, Pakistan
+- Masters in Computational Data Analytics - Georgia Institute of Technology
+- Bachelors in Economics and Mathematics, minor in Computer Science - Lahore University of Management Sciences}{Lahore, Pakistan
 
 ### Projects
 
